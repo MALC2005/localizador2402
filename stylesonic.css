@@ -1,0 +1,257 @@
+html {
+    background-image: url(img/sega.jpg!d);
+    /*Para que no se repita la imagen*/
+    background-repeat: no-repeat;
+    /*Mantiene la imagen pegada en el fondo*/
+    background-attachment: fixed;
+    /*Para seleccionar en el fondo*/
+    background-position: center center;
+    /*Para que cubra todo el tamaño*/
+    background-size: cover;
+}
+
+#main {
+    text-align: center;
+    color: rgb(42, 59, 172);
+    font-family: serif;
+}
+
+#title {
+    text-align: center;
+    color: rgb(6, 110, 51);
+    font-family: sans-serif;
+}
+
+#Reproductor {
+    text-align: center;
+}
+
+#title2 {
+    text-align: center;
+    color: rgb(17, 14, 132);
+    font-family: sans-serif;
+}
+
+#ReproductorDOS {
+    text-align: center;
+}
+
+#title3 {
+    text-align: center;
+    color: rgb(255, 55, 0);
+    font-family: sans-serif;
+}
+
+#ReproductorTRES {
+    text-align: center;
+}
+
+#title4 {
+    text-align: center;
+    color: rgb(189, 38, 88);
+    font-family: sans-serif;
+}
+
+#ReproductorCUATRO {
+    text-align: center;
+}
+
+#title5{
+    text-align: center;
+    color: rgb(244, 207, 0);
+    font-family: sans-serif;
+}
+
+#ReproductorCINCO{
+    text-align: center;
+}
+
+#title6{
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-family: sans-serif;
+}
+
+#ReproductorSEIZ{
+    text-align: center;
+}
+
+#title7{
+    text-align: center;
+    color: rgb(49, 10, 85);
+    font-family: sans-serif;
+}
+
+#ReproductorSIETE{
+    text-align: center;
+}
+
+#title8{
+    text-align: center;
+    color: chartreuse;
+    font-family: sans-serif;
+}
+
+#ReproductorOCHO{
+    text-align: center;
+}
+
+#title9{
+    text-align: center;
+    color: tomato;
+    font-family: sans-serif;
+}
+
+#ReproductorNUEVE{
+    text-align: center;
+}
+
+#title10{
+    text-align: center;
+    color: rgb(221, 255, 0);
+    font-family: sans-serif;
+}
+
+#ReproductorDIEZ{
+    text-align: center;
+}
+
+#title11{
+    text-align: center;
+    color: rgb(73, 7, 207);
+    font-family: sans-serif;
+}
+
+#ReproductorONCE{
+    text-align: center;
+}
+
+#title12{
+    text-align: center;
+    color: rgb(87, 54, 1);
+    font-family: sans-serif;
+}
+
+#ReproductorDOCE{
+    text-align: center;
+}
+
+#title13{
+    text-align: center;
+    color: rgb(127, 42, 207);
+    font-family: sans-serif;
+}
+
+#ReproductorTRECE{
+    text-align: center;
+}
+
+#title14{
+    text-align: center;
+    color: rgb(255, 204, 0);
+    font-family: sans-serif;
+}
+
+#ReproductorCATORCE{
+    text-align: center;
+}
+
+#title15{
+    text-align: center;
+    color: rgb(17, 15, 62);
+    font-family: sans-serif;
+}
+
+#ReproductorQUINCE{
+    text-align: center;
+}
+
+#title16{
+    text-align: center;
+    color: brown;
+    font-family: sans-serif;
+}
+
+#ReproductorDIECICEIZ{
+    text-align: center;
+}
+
+#title17{
+    text-align: center;
+    color: rgb(106, 16, 16);
+    font-family: sans-serif;
+}
+
+#ReproductorDIECICIETE{
+    text-align: center;
+}
+
+#title18{
+    text-align: center;
+    color: rgb(255, 0, 64);
+    font-family: sans-serif;
+}
+
+#ReproductorDIECIOCHO{
+    text-align: center;
+}
+
+#title19{
+    text-align: center;
+    color: rgb(196, 17, 17);
+    font-family: sans-serif;
+}
+
+#ReproductorDIECINUEVE{
+    text-align: center;
+}
+
+#title20{
+    text-align: center;
+    color: #063f75;
+    font-family: sans-serif;
+}
+
+#ReproductorVEINTE{
+    text-align: center;
+}
+
+#title21{
+    text-align: center;
+    color: rgb(166, 54, 192);
+    font-family: sans-serif;
+}
+
+#ReproductorVEINTEYUNO{
+    text-align: center;
+}
+
+#title22{
+    text-align: center;
+    color: rgb(6, 93, 96);
+    font-family: sans-serif;
+}
+
+#ReproductorVEINTEYDOS{
+    text-align: center;
+}
+
+#title23{
+    text-align: center;
+    color: rgb(8, 82, 82);
+    font-family: sans-serif;
+}
+
+#ReproductorVEINTEYTRES{
+text-align: center;
+}
+
+#title24{
+    text-align: center;
+    color: crimson;
+    font-family: sans-serif;
+}
+
+#ReproductorVEINTEYCUATRO{
+    text-align: center;
+}
